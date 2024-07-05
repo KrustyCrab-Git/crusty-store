@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: crusty-homebridge-fixed
+name: Homebridge FIXED
+tagline: Homebridge fixed and better
+icon: https://svgur.com/i/mvA.svg
+category: Development
+version: "1.0.0"
+port: 4000
+description: >-
+  This app is supposed to be a fixed version from homebridge. since i cant get the original working this should!
+
+developer: Homebridge
+website: 
+submitter: Homebridge
+submission: 
+repo: 
+support: 
+gallery:
+  
+releaseNotes: >-
+  First time adding
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
